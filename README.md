@@ -29,7 +29,7 @@ ShopSmart is a cross-platform shopping application that allows users to browse p
 ## Project Structure
 
 ```
-ShopSmart/
+ShopS/
 ├── App.js                 # Main application entry point
 ├── screens/               # Screen components
 │   ├── Login.jsx         # Authentication screen
@@ -61,7 +61,7 @@ ShopSmart/
 
 ```bash
 git clone <repository-url>
-cd ShopSmart
+cd ShopS
 ```
 
 2. Install dependencies:
