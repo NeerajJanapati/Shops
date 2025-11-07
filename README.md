@@ -1,4 +1,4 @@
-# ShopSmart 🛒
+# ShopS 🛒
 
 A modern mobile shopping application built with React Native and Expo, designed to provide users with a smooth and intuitive e-commerce experience.
 
